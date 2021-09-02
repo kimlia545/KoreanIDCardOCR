@@ -1,0 +1,27 @@
+# face dataset download url
+# http://vis-www.cs.umass.edu/lfw/
+
+
+
+'''
+import os
+
+folder_path = './LAGdataset_200/'
+out_path = './face/'
+folder_list = os.listdir(folder_path)
+
+for folder in folder_list:
+    file_list = os.listdir(folder_path+folder)
+    os.rename(folder_path+folder+'/'+file_list[0], out_path + file_list[0])
+    print(file_list[0])
+    #for f in file_list:
+    #    print('pic')
+'''  
+
+# stamp b_row = 180
+b_cols = 280
+shape (60, 50)
+
+# mark 
+b_row = 18
+b_cols = 13
