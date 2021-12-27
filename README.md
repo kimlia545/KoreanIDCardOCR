@@ -20,8 +20,12 @@ To import custom images and bounding boxes in the YOLO format, use Roboflow.
 ## Step 5 Yolo (Text Detection)
 ### [yolo5](https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ)  
 ### [yolo4](https://colab.research.google.com/drive/1mzL6WyY9BRx4xX476eQdhKDnd_eixBlG#scrollTo=GNVU7eu9CQj3)
-![test](https://user-images.githubusercontent.com/72369991/146518301-5651f6c3-d233-4d1f-b3c4-0a80c545d9e6.jpg)
+![1640604380396](https://user-images.githubusercontent.com/72369991/147467657-059580b0-2aff-4a08-9498-3bd4c5a65299.jpg)
 
 ## Step 6 Text Recognition
 ### [Tesseract](https://github.com/tesseract-ocr/tesseract)  
 ### [deep-text-recognition-benchmark korean model](https://github.com/parksunwoo/ocr_kor)
+
+```
+[([[59, 71], [114, 71], [114, 98], [59, 98]], '박은영', 0.9962835228060669), ([[57, 101], [181, 101], [181, 124], [57, 124]], '491614-4124423', 0.5739166951866006)]
+```
