@@ -3,9 +3,10 @@ Korean ID Card OCR using YOLO and Tesseract
 
 ## Step 1  Generate Data 
 ### Genrator Korean ID Card  
+[Download Face Dataset](http://vis-www.cs.umass.edu/lfw/)  
 ![0](https://user-images.githubusercontent.com/72369991/131650895-0dc4c5dc-b925-4f5c-8f74-948f27d5ae6f.jpg)
 
-## Step 2 Data Labeling
+## Step 2 Data Labeling)
 ### [ImgLabel](https://github.com/tzutalin/labelImg)  
  ![imgaug](https://user-images.githubusercontent.com/72369991/131650855-546bb674-7bb0-481c-8a0c-a4bcfde52623.png)
  
